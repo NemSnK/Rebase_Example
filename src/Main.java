@@ -5,7 +5,7 @@ import static java.util.Arrays.asList;
 
 public class Main {
     public static void main(String[] args) {
-        Person sara = new Person("Sara", 4);
+        Person sara = new Person("Sara", 44);
         Person viktor = new Person("Viktor", 40);
         Person eva = new Person("Eva", 42);
         Person anna = new Person("Anna", 5);
